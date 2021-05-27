@@ -1,0 +1,14 @@
+.box{
+    border: 2px solid black;
+    width: 30%;
+    float: left;
+    padding-left: 15px;
+    margin-top: 300px;
+    margin-left: 15px;
+}
+h2{
+    text-align: center;
+}
+p{
+    text-align:unset
+}
